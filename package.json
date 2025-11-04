@@ -4,6 +4,6 @@
   "main": "api/index.js",
   "type": "module",
   "dependencies": {
-    "youtube-transcript": "^1.2.0"
+    "youtube-transcript": "1.2.0"
   }
 }
